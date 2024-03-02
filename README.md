@@ -1,1 +1,2 @@
 # Excel_AuomatedTesting
+I have done automated testing using Selenium here. I used ChromeDriver 120.0.6099.109 or Edge WebDriver 122.0.2365.59. I used one class with two method.One is Login and another is addvital.The login method only used to login the user and the addvital mainly add a new vital. I have called the login methon in this add vital method at first and then did the other works. In every place I have used Xpath for finding elements because there was not unique ID there.
