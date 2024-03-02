@@ -1,0 +1,7 @@
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\obj\Release\SeleniumUnitTest.csprojResolveAssemblyReference.cache
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\bin\Release\SeleniumUnitTest.dll
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\bin\Release\SeleniumUnitTest.pdb
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\bin\Release\Webdriver.dll
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\bin\Release\WebDriver.Support.dll
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\obj\Release\SeleniumUnitTest.dll
+D:\SalesAPI\SeleniumUnitTest2\SeleniumUnitTest\obj\Release\SeleniumUnitTest.pdb
